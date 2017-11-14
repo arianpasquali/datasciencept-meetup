@@ -1,10 +1,11 @@
 # Data Science Portugal Meetup (DSPT) 
 
-## An Exploratory Data Analysis
+## An exploratory data analysis
 
-This is project a pet project to see what is possible to do using publicly available data about DSPT* community using only Meetup API* (https://www.meetup.com/).
+This is a pet project that aims to explore what is possible to do using public available data from the DSPT* community.
+At this point I have explored the Meetup API* (https://www.meetup.com/).
 
-Please, feel free to play with it and collaborate.
+Feel free to play with it, collaborate and expand it.
 
 * Data Science Portugal (DSPT) is an informal community of data science enthusiasts created with the purpose of sharing knowledge and experience in the fields of data science, machine learning and artificial intelligence. For more info visit http://www.meetup.com/datascienceportugal.
 
