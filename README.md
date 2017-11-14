@@ -1,6 +1,6 @@
 # Data Science Portugal Meetup (DSPT) 
 
-##An Exploratory Data Analysis
+## An Exploratory Data Analysis
 
 This is project a pet project to see what is possible to do using publicly available data about DSPT* community using only Meetup API* (https://www.meetup.com/).
 
