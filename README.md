@@ -1,11 +1,17 @@
-# Data Science Portugal Meetup (DSPT) Data Analysis 
+# Data Science Portugal Meetup (DSPT) Exploratory Data Analysis 
 
-This project a pet project to see what is possible to do using publicly available data about DSPT community using only Meetup API.
-Please, feel free to collaborate.
+This is project a pet project to see what is possible to do using publicly available data about DSPT* community using only Meetup API* (https://www.meetup.com/).
+
+Please, feel free to play with it and collaborate.
+
+* Data Science Portugal (DSPT) is an informal community of data science enthusiasts created with the purpose of sharing knowledge and experience in the fields of data science, machine learning and artificial intelligence. For more info visit http://www.meetup.com/datascienceportugal.
+
+* Meetup is a social network to organize meetups https://www.meetup.com/ 
 
 ### Map visualization
 
-to enable map visualization inline:
+If you are running this notebook in your local jupyter environment you can install a special widget to plot maps inline.
+In order to enable it inyour env follow these steps:
 
 Using pip:
 
