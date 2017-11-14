@@ -1,5 +1,9 @@
-# datascience-meetup
+# Data Science Portugal Meetup (DSPT) Data Analysis 
 
+This project a pet project to see what is possible to do using publicly available data about DSPT community using only Meetup API.
+Please, feel free to collaborate.
+
+### Map visualization
 
 to enable map visualization inline:
 
